@@ -224,7 +224,7 @@ El diseño sigue una estética **minimalista y moderna**, priorizando:
 
 ## 👨‍💻 Autor
 
-Desarrollado por **[Tu Nombre]**
+Desarrollado por **[Sebastian Rojas]**
 
 - 🌐 Portfolio: [srojasweb.dev](https://srojasweb.dev)
 - 💼 LinkedIn: [linkedin.com/in/secrojas](https://linkedin.com/in/secrojas)
