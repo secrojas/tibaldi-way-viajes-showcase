@@ -228,7 +228,6 @@ Desarrollado por **[Tu Nombre]**
 
 - 🌐 Portfolio: [tuportfolio.dev](https://srojasweb.dev)
 - 💼 LinkedIn: [linkedin.com/in/tuperfil](https://linkedin.com/in/secrojas)
-- 🐙 GitHub: [@tuusuario](https://github.com/secrojas)
 
 ---
 
