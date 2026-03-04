@@ -226,8 +226,8 @@ El diseño sigue una estética **minimalista y moderna**, priorizando:
 
 Desarrollado por **[Tu Nombre]**
 
-- 🌐 Portfolio: [tuportfolio.dev](https://srojasweb.dev)
-- 💼 LinkedIn: [linkedin.com/in/tuperfil](https://linkedin.com/in/secrojas)
+- 🌐 Portfolio: [srojasweb.dev](https://srojasweb.dev)
+- 💼 LinkedIn: [linkedin.com/in/secrojas](https://linkedin.com/in/secrojas)
 
 ---
 
